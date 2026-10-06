@@ -6,7 +6,7 @@ image: assets/images/spectra_colored_by_metallicity_no_axes.png
 nav-menu: true
 ---
 
-<span class="image fit"><img src="academic_cv_2026-website_1.png" alt="" /></span>
+<div class="image fit"><img src="academic_cv_2026-website_1.png" alt="" /></div>
 
 <!--
 <span class="image fit"><img src="academic_cv_2026-website_2.png" alt="" /></span>
