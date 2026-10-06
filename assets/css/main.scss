@@ -78,3 +78,15 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+
+ul.icons li .custom-icon {
+    display: inline-block;
+}
+
+ul.icons li .custom-icon svg {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.125em;
+    fill: currentColor;
+}
