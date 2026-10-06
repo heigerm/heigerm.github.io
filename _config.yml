@@ -1,0 +1,3 @@
+theme: forty-jekyll-theme
+plugins:
+  - jekyll-remote-theme
