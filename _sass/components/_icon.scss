@@ -48,3 +48,31 @@
 			}
 		}
 	}
+
+/* Custom SVG social icons */
+
+ul.icons li .custom-icon {
+    position: relative;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+}
+
+ul.icons li .custom-icon svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 2em;
+    height: 2em;
+    box-sizing: border-box;
+    fill: _palette(bg);
+    pointer-events: none;
+}
+
+ul.icons li .custom-icon.orcid svg {
+    padding: 0.45em;
+}
+
+ul.icons li .custom-icon.google-scholar svg {
+    padding: 0.4em;
+}
