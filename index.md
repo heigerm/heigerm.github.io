@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Mairéad E. Heiger*'
+landing-title: 'Mairéad E. Heiger'
 description: 'rhymes with "parade"'
 image: null
 author: null
