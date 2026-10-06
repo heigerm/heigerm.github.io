@@ -1,8 +1,8 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: 
+subtitle: 
 email: mairead.heiger@virginia.edu
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Hi! I'm a CosmicAI and GECO (Galaxy Evolution and Cosmology Initiative) fellow at the University of Virginia. My research focuses on using dwarf galaxies and their metal-poor stars to understand nucleosynthesis and chemical evolution. I use both observational astronomy and astrostatistics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://heigerm.github.io" # the base hostname & protocol for your site
 author:
@@ -25,7 +25,7 @@ socials:
   GitHub: https://github.com/heigerm
   GitLab:
   Google-Plus: 
-  Instagram:
+  Instagram: 
   LinkedIn: 
   Twitter: 
   Facebook:
