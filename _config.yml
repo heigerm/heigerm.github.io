@@ -1,8 +1,8 @@
 # site settings
 title: Postdoctoral Fellow
-subtitle: in Astronomy
+subtitle: 
 email: mairead.heiger@virginia.edu
-description: CosmicAI and GECO (Galaxy Evolution and Cosmology Initiative) fellow at the University of Virginia
+description: <a href="https://cosmicai.org/">CosmicAI</a> and <a href=https://astronomy.as.virginia.edu/galaxy-evolution-and-cosmology-initiative-geco">GECO</a> fellow at the University of Virginia
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://heigerm.github.io" # the base hostname & protocol for your site
 author:
