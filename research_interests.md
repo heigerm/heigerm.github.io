@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: landing
 title: Research interests
 description: 
-image: assets/images/spectra_colored_by_metallicity_no_axes_darkmode.png
+image: assets/images/spectra_colored_by_metallicity_no_axes.png
 nav-menu: true
 ---
 
