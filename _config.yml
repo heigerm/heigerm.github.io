@@ -1,8 +1,8 @@
 # site settings
-title: 
-subtitle: 
+title: Postdoctoral Fellow
+subtitle: in Astronomy
 email: mairead.heiger@virginia.edu
-description: Hi! I'm a CosmicAI and GECO (Galaxy Evolution and Cosmology Initiative) fellow at the University of Virginia. My research focuses on using dwarf galaxies and their metal-poor stars to understand nucleosynthesis and chemical evolution. I use both observational astronomy and astrostatistics.
+description: CosmicAI and GECO (Galaxy Evolution and Cosmology Initiative) fellow at the University of Virginia
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://heigerm.github.io" # the base hostname & protocol for your site
 author:
@@ -23,8 +23,8 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   GitHub: https://github.com/heigerm
-  GitLab:
-  Google-Plus: 
+  orcid: https://orcid.org/0000-0002-2446-8332
+  google-scholar: https://scholar.google.com/citations?hl=en&user=Frb1V4oAAAAJ 
   Instagram: 
   LinkedIn: 
   Twitter: 
@@ -43,3 +43,4 @@ exclude:
 - CONTRIBUTING.md
 - README.md 
 - elements.md
+- landing.md
