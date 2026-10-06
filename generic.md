@@ -2,7 +2,7 @@
 layout: post
 title: Research interests
 description: 
-image: assets/images/spectra_colored_by_metallicity.png
+image: assets/images/spectra_colored_by_metallicity_no_axes_darkmode.png
 nav-menu: true
 ---
 
