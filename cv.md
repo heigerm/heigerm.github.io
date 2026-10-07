@@ -12,17 +12,29 @@ nav-menu: true
         <h1>CV</h1>
     </header>
   
-    <div class="box alt">
-      <div class="row 50% uniform">
-        <div class="4u"><span class="image fit"><img src="academic_cv_2026-website_1.png" alt="" /></span></div>
-        <!-- Break -->
-        <div class="4u"><span class="image fit"><img src="academic_cv_2026-website_2.png" alt="" /></span></div>
-        <!-- Break -->
-        <div class="4u"><span class="image fit"><img src="academic_cv_2026-website_3.png" alt="" /></span></div>
-      </div>
+<div class="box alt">
+  <div class="row uniform">
+    <div class="12u">
+      <span class="image fit">
+        <img src="{{ site.baseurl }}/assets/images/academic_cv_2026-website_1.png" alt="CV page 1" />
+      </span>
     </div>
-  
+
+    <div class="12u">
+      <span class="image fit">
+        <img src="{{ site.baseurl }}/assets/images/academic_cv_2026-website_2.png" alt="CV page 2" />
+      </span>
+    </div>
+
+    <div class="12u">
+      <span class="image fit">
+        <img src="{{ site.baseurl }}/assets/images/academic_cv_2026-website_3.png" alt="CV page 3" />
+      </span>
+    </div>
   </div>
+</div>
+  
+</div>
 </section>
 </div>
 
