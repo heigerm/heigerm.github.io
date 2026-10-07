@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Mairéad E. Heiger
+title: Home
 landing-title: 'Mairéad E. Heiger'
 description: ''
 image: "assets/images/sculptordwarf.jpg"
