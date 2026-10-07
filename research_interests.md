@@ -4,6 +4,7 @@ title: Research interests
 description: 
 image: assets/images/spectra_colored_by_metallicity_no_axes.png
 nav-menu: true
+title-order: 1
 ---
 
 <!-- Main -->
