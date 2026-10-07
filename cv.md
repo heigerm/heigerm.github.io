@@ -4,7 +4,7 @@ title: CV
 description: 
 image: assets/images/spectra_colored_by_metallicity_no_axes.png
 nav-menu: true
-title-order: 3
+order: 3
 ---
 <div id="main" class="alt">
   <section id="one">
