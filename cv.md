@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: page
 title: CV
 description: 
 image: assets/images/spectra_colored_by_metallicity_no_axes.png
