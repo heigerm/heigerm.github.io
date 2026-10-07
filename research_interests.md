@@ -32,7 +32,7 @@ tile-order: 1
 <h3>Previous projects</h3>
 <div class="row">
     <div class="4u 12u$(medium)">
-    <h3><a href="https://doi.org/10.3847/1538-4357/ae88f8"><Multi-galaxy constraints on chemical enrichment</a></h3>
+    <h3><a href="https://doi.org/10.3847/1538-4357/ae88f8">Multi-galaxy constraints on chemical enrichment</a></h3>
     <p> Some of processes that govern chemical evolution, like nucleosynthesis, are the same in every galaxy. Others are completely environmentally dependent. I developed a statistical model of multiple galaxies to constrain these universal processes using a novel data-driven physical model called _dleiy_. I applied this model in a pilot study to the dwarf galaxies Sculptor and Fornax to constrain chemical enrichment in low-mass, metal-poor environments. We found a large fraction of prompt Type Ia and an enhanced rate of Type Ia supernovae, which may suggest a metallicity dependence of Type Ia enrichment.</p>
     </div>
     <div class="4u 12u$(medium)">
