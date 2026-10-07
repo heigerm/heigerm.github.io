@@ -12,9 +12,4 @@ nav-menu: true
   <span class="image fit"><img src="assets/images/academic_cv_2026-website_3.png" alt="" /></span>
 </div>
 
-<!--
-<span class="image fit"><img src="academic_cv_2026-website_2.png" alt="" /></span>
-
-<span class="image fit"><img src="academic_cv_2026-website_3.png" alt="" /></span>
--->
 <!-- <embed src="assets/images/academic_cv_2026-website.pdf"/> -->
