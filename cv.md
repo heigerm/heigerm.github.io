@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: CV
 description: 
 image: assets/images/spectra_colored_by_metallicity_no_axes.png
@@ -9,10 +9,6 @@ tile-order: 3
 <div id="main" class="alt">
   <section id="one">
     <div class="inner">
-      <header class="major">
-          <h1>CV</h1>
-      </header>
-    
       <div class="box alt">
         <div class="row uniform">
           <div class="12u">
