@@ -27,8 +27,10 @@ tile-order: 1
     <h3>Statistical approaches to chemical enrichment</h3>
     <p>Galactic chemical evolution is a complex, multi-scale phenomenon--everything from nucleosynthesis to galaxy mergers affects a galaxy's chemical composition. We can use statistical samples of multi-element chemical abundances in more massive (but still relatively simple) classical dwarf spheroidal galaxies to constrain these baryonic processes. Thanks to decades of study, we have a relatively good phenomenological understanding of many aspects of galactic chemical evolution, but robust, quantitative constraints are challenging due to complex degeneracies, noisy and incomplete data, and the limitations of our theoretical models and simulations. To address these challenges, I am interested in developing methods for robust statistical inference and in uncertainty quantification.</p>
     </div>
-    <!-- Break -->
-    <h3>Previous projects</h3>
+</div>
+ <!-- Break -->
+<h3>Previous projects</h3>
+<div class="row">
     <div class="4u 12u$(medium)">
     <h3><a href="https://doi.org/10.3847/1538-4357/ae88f8"><Multi-galaxy constraints on chemical enrichment</a></h3>
     <p> Some of processes that govern chemical evolution, like nucleosynthesis, are the same in every galaxy. Others are completely environmentally dependent. I developed a statistical model of multiple galaxies to constrain these universal processes using a novel data-driven physical model called _dleiy_. I applied this model in a pilot study to the dwarf galaxies Sculptor and Fornax to constrain chemical enrichment in low-mass, metal-poor environments. We found a large fraction of prompt Type Ia and an enhanced rate of Type Ia supernovae, which may suggest a metallicity dependence of Type Ia enrichment.</p>
